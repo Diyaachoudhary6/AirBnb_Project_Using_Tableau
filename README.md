@@ -1,21 +1,18 @@
-# AirBnb_Analysis_Dashboard_Using_Tableau
+# Airbnb Sales & Revenue Analysis Dashboard | Tableau Project
 
-1. Project Title / Headline
- - Airbnb Sales & Revenue Analysis Dashboard | Tableau Project
-
-2. Short Description / Purpose
+1. Project Description / Purpose
 
 This Tableau dashboard provides an interactive analysis of Airbnb listing performance using a real-world Airbnb dataset. The dashboard helps users understand pricing trends, revenue patterns, bedroom-wise pricing, and geographical distribution of listings across different ZIP codes.
 The goal of this project is to transform raw Airbnb data into meaningful business insights that can help property owners, investors, and analysts make data-driven decisions regarding pricing strategies and revenue optimization.
 
-3. Tech Stack
+2. Tech Stack
 - Tableau Public/Desktop – Data Visualization & Dashboard Development
 - Microsoft Excel / CSV – Data Source
 - Data Cleaning & Preparation – Excel/Tableau
 - Mapbox Integration – Geographic Visualization
 - GitHub – Project Documentation & Portfolio Showcase
 
-4. Data Source
+3. Data Source
 Dataset: Airbnb Listings Dataset.
 
 The dataset contains information related to Airbnb properties, including:
@@ -27,7 +24,7 @@ The dataset contains information related to Airbnb properties, including:
 - Revenue Information
 - Property Location Data
 
-5. Features / Highlights
+4. Features / Highlights
 
 # Business Problem
 Airbnb hosts and property managers need insights into how pricing varies across locations and property sizes. Understanding these trends can help maximize revenue and improve listing performance.
