@@ -1,7 +1,7 @@
 # AirBnb_Analysis_Dashboard_Using_Tableau
 
 1. Project Title / Headline
-Airbnb Sales & Revenue Analysis Dashboard | Tableau Project
+ - Airbnb Sales & Revenue Analysis Dashboard | Tableau Project
 
 2. Short Description / Purpose
 
